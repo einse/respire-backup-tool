@@ -1,0 +1,11 @@
+.btn {
+    border: solid black 1px; 
+    width: 60px; 
+    margin: 6px 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+}
+
+input {
+    width: 100%;
+}

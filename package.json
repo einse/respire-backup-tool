@@ -1,0 +1,11 @@
+{
+  "name": "respire-backup-tool",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Arsentev",
+  "license": "Apache 2.0"
+}
