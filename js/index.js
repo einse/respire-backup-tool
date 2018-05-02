@@ -83,11 +83,11 @@ function logIn (email, pass) {
 };
 
 // Initialize Firebase
-// Respire 3
+// Respire 4
 var config = {
-  apiKey: "AIzaSyC4upjsxpRwXa26Sf8pv1EuJ_Rxnz7nwew",
-  authDomain: "respire3-hi.firebaseapp.com",
-  databaseURL: "https://respire3-hi.firebaseio.com"
+  apiKey: "AIzaSyACPJoPb25PsS_e1Tqzp2STIIbNWFaMQ4A",
+  authDomain: "respire4-go.firebaseapp.com",
+  databaseURL: "https://respire4-go.firebaseio.com",
 };
 
 firebase.initializeApp(config);
